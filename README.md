@@ -1,14 +1,28 @@
-## Hello, World :)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+## 🌟 Sobre mim
+Grande entusiasta da Tecnologia da Informação, já tive contato com praticamente todas as áreas de Tech, tais como UI/UX, DEVOPS, Suporte ao Usuário, Desenvolvimento e Dados. O que me forneceu uma ampla visão de todo o processo e em entregar o máximo de valor ao cliente.
 
-  ##
+Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como Desenvolvedor Full-Stack na plataforma de código aberto [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue).
 
-<div> 
-  <a href="https://www.linkedin.com/in/guilherme-bernardino-leite-9a310a218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gui.ber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+Formado em Sistemas de Informação pelo Centro Universitário Sumaré e cursando MBA em Engenharia de Dados na FIAP.
+
+## 📚 Conhecimento
+- Python
+- Lua
+- JavaScript
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+- Databricks
+- Tableau
+- Power BI
+
+## 🗃 Portfólio
+[MTA Roleplay Server](https://github.com/gui-ber?tab=repositories)
+
+[Figma to Lua](https://github.com/gui-ber?tab=repositories)
+
+## 📱 Redes
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-leite-9a310a218)
