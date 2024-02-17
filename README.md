@@ -19,9 +19,9 @@ Formado em Sistemas de Informação pelo Centro Universitário Sumaré e cursand
 - Power BI
 
 ## 🗃 Portfólio
-[MTA Roleplay Server](https://github.com/gui-ber?tab=repositories)
+[MTA Roleplay Server](https://github.com/gui-ber/roleplay_mta)
 
-[Figma to Lua](https://github.com/gui-ber?tab=repositories)
+[Figma to MTA](https://github.com/gui-ber/figma_to_mta)
 
 ## 📱 Redes
 
