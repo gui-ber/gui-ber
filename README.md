@@ -4,7 +4,7 @@ Grande entusiasta da Tecnologia da Informação, já tive contato com praticamen
 
 Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como Desenvolvedor Full-Stack na plataforma de código aberto [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue).
 
-Formado em Sistemas de Informação pelo Centro Universitário Sumaré e cursando MBA em Engenharia de Dados na FIAP.
+Formado em Sistemas de Informação pelo Centro Universitário Sumaré.
 
 ## 📚 Conhecimento
 - Python
@@ -12,8 +12,9 @@ Formado em Sistemas de Informação pelo Centro Universitário Sumaré e cursand
 - JavaScript
 - MySQL
 - PostgreSQL
-- SQLite
+- SQL Server
 - MongoDB
+- AWS
 - Databricks
 - Tableau
 - Power BI
