@@ -8,10 +8,10 @@ Formado em Sistemas de Informação pelo Centro Universitário Sumaré.
 
 ## 📚 Conhecimento
 - Python
-- Lua
 - JavaScript
-- MySQL
+- Lua
 - PostgreSQL
+- MySQL
 - SQL Server
 - MongoDB
 - AWS
