@@ -1,10 +1,7 @@
-
 ## 🌟 Sobre mim
-Grande entusiasta da Tecnologia da Informação, já tive contato com praticamente todas as áreas de Tech, tais como UI/UX, DEVOPS, Suporte ao Usuário, Desenvolvimento e Dados. O que me forneceu uma ampla visão de todo o processo e em entregar o máximo de valor ao cliente.
+Grande entusiasta da Tecnologia da Informação, já tive contato com praticamente todas as áreas de Tech, tais como UI/UX, DEVOPS, Suporte ao Usuário, Desenvolvimento e atualmente Dados. O que me forneceu uma ampla visão de todo o processo e em entregar o máximo de valor ao cliente.
 
-Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como Desenvolvedor Full-Stack na plataforma de código aberto [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue).
-
-Formado em Sistemas de Informação pelo Centro Universitário Sumaré.
+Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como Desenvolvedor Full-Stack na plataforma de código aberto [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue). Sou bacharelado em Sistemas de Informação pelo Centro Universitário Sumaré.
 
 ## 📚 Conhecimento
 - Python
@@ -20,11 +17,15 @@ Formado em Sistemas de Informação pelo Centro Universitário Sumaré.
 - Power BI
 
 ## 🗃 Portfólio
-[MTA Roleplay Server](https://github.com/gui-ber/roleplay_mta)
+[ETL | Histórico transições de status Jira (Python)](https://github.com/gui-ber/gui-ber)
 
-[Figma to MTA](https://github.com/gui-ber/figma_to_mta)
+[Web Scrapping | Logs de conversas chat-bot (Python)](https://github.com/gui-ber/gui-ber)
 
-[Projetos Figma](https://www.figma.com/files/project/48812434/Projects?fuid=1072540384843859579)
+[Front/Back-end | MTA Roleplay Server (Lua)](https://github.com/gui-ber/roleplay_mta)
+
+[Back-end | Figma to MTA (Javascript)](https://github.com/gui-ber/figma_to_mta)
+
+[UI/UX | Projetos MTA (Figma)](https://www.figma.com/files/project/48812434/Projects?fuid=1072540384843859579)
 
 ## 📱 Redes
 
