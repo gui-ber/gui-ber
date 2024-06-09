@@ -10,6 +10,7 @@ Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como 
 - PostgreSQL
 - MySQL
 - SQL Server
+- SQLite
 - MongoDB
 - AWS
 - Databricks
@@ -17,9 +18,9 @@ Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como 
 - Power BI
 
 ## 🗃 Portfólio
-[ETL | Histórico transições de status Jira (Python)](https://github.com/gui-ber/gui-ber)
+[ETL | Histórico transições de status Jira (Python)](https://github.com/gui-ber/history_autodoc)
 
-[Web Scrapping | Logs de conversas chat-bot (Python)](https://github.com/gui-ber/gui-ber)
+[Web Scrapping | Logs de conversas chat-bot (Python)](https://github.com/gui-ber/chatbot_autodoc)
 
 [Front/Back-end | MTA Roleplay Server (Lua)](https://github.com/gui-ber/roleplay_mta)
 
