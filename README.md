@@ -4,15 +4,19 @@ Grande entusiasta da Tecnologia da Informação, já tive contato com praticamen
 Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como Desenvolvedor Full-Stack na plataforma de código aberto [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue). Sou bacharelado em Sistemas de Informação pelo Centro Universitário Sumaré.
 
 ## 📚 Conhecimento
-- Python
-- JavaScript
+- Python (PySpark, Pandas, Selenium, NumPy, Matplotlib)
+- Shell
 - Lua
+- JavaScript
 - PostgreSQL
 - MySQL
 - SQL Server
 - SQLite
 - MongoDB
+- DynamoDB
 - AWS
+- RabbitMQ
+- Kafka
 - Databricks
 - Tableau
 - Power BI
