@@ -14,10 +14,13 @@ Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como 
 - SQLite
 - MongoDB
 - DynamoDB
+- Spark
+- Airflow
 - AWS
 - Databricks
+- Kafka
 - Kubernetes
-- Airflow
+- Terraform
 - Tableau
 - Power BI
 
