@@ -15,9 +15,9 @@ Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como 
 - MongoDB
 - DynamoDB
 - AWS
-- RabbitMQ
-- Kafka
 - Databricks
+- Kubernetes
+- Airflow
 - Tableau
 - Power BI
 
@@ -34,4 +34,4 @@ Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como 
 
 ## 📱 Redes
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-leite-9a310a218)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-ber)
