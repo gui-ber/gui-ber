@@ -15,25 +15,15 @@ Atuo como Analista de Dados na empresa Autodoc Tecnologia e no tempo livre como 
 - MongoDB
 - DynamoDB
 - Spark
-- Airflow
 - AWS
 - Databricks
-- Kafka
-- Kubernetes
-- Terraform
 - Tableau
 - Power BI
 
 ## 🗃 Portfólio
-[ETL | Histórico transições de status Jira (Python)](https://github.com/gui-ber/history_autodoc)
-
-[Web Scrapping | Logs de conversas chat-bot (Python)](https://github.com/gui-ber/chatbot_autodoc)
-
-[Front/Back-end | MTA Roleplay Server (Lua)](https://github.com/gui-ber/roleplay_mta)
+[Full-stack | MTA Roleplay Server (Lua)](https://github.com/gui-ber/roleplay_mta)
 
 [Back-end | Figma to MTA (Javascript)](https://github.com/gui-ber/figma_to_mta)
-
-[UI/UX | Projetos MTA (Figma)](https://www.figma.com/files/project/48812434/Projects?fuid=1072540384843859579)
 
 ## 📱 Redes
 
