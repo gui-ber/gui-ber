@@ -1,28 +1,23 @@
 ## 🌟 Sobre mim
-Engenheiro de Dados com 2 anos de experiência, focado em pipelines usando Python (PySpark, Pandas, Selenium), Shell, SQL, NoSQL, API REST e Databricks, transformando dados em valor e direcionamento para os times de Suporte, Cloud, Produtos, Comercial e Diretoria, garantindo que estão atualizados, confiáveis e seguindo as normas de governança.
+SRE com mais de 1 ano de experiência, focado no provisionamento, observabilidade, sustentação e melhoria contínua de ambientes. Atuando no provisionamento com Terraform, garantindo a entrega contínua com Github Actions, realizando monitoramento com Prometheus, New Relic e CloudWatch, e automatizando tarefas e rotinas diárias com Python e Shell.
 
-Grande entusiasta da Tecnologia da Informação, já tive contato com praticamente todas as áreas de Tech, tais como UI/UX, DEVOPS, Suporte ao Usuário, Desenvolvimento e atualmente Dados. O que me forneceu uma ampla visão de todo o processo e em entregar o máximo de valor ao cliente.
+Iniciei minha carreira já na adolescência, quando junto com um grupo de amigos, criamos um servidor online de game na plataforma open-source [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue), onde conheci e me apaixonei pela área de tecnologia. Levei o [projeto](https://github.com/gui-ber/roleplay_mta) muito a sério, tanto que em menos de 1 ano ele atingiu a marca de top 4 com mais acessos no Brasil, chegando a uma média de 350 jogadores simultâneos diariamente.
 
-Atuo como Engenheiro de Dados na empresa Autodoc Tecnologia e no tempo livre como Fundador e Desenvolvedor Full-Stack de um servidor na plataforma open-source de jogos [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue). Bacharelado em Sistemas de Informação pelo Centro Universitário Sumaré.
+Bacharel em Sistemas de Informação, já tive experiência em diversas áreas da tecnologia, tais como Help Desk, Desenvolvimento (back end), Dados e atualmente Cloud/SRE. No momento atuo como Analista de SRE na Autodoc Tecnologia.
 
 ## 📚 Conhecimento
-- Python (PySpark, Pandas, Selenium, NumPy, Matplotlib)
-- Shell
-- Lua
-- JavaScript
-- PostgreSQL
-- MySQL
-- SQL Server
-- SQLite
-- MongoDB
-- DynamoDB
-- Spark
-- Airflow
-- AWS
-- Kafka
-- Databricks
-- Tableau
-- Power BI
+- Linguagens: Python, Shell, Lua, JavaScript
+- Libs Python: PySpark, Pandas, Selenium
+- SQL: MySQL, PostgreSQL, SQL Server, SQLite
+- NoSQL: MongoDB, DynamoDB
+- Container: Docker, Kubernetes
+- IaC: Terraform
+- Observabilidade: CloudWatch, Prometheus, New Relic
+- CI/CD: Github Actions, Jenkins
+- Servidores: NGINX, Apache
+- Cloud: AWS
+- Data Lake/Warehouse: Databricks
+- Datavis: Tableau | Power BI
 
 ## 🗃 Portfólio
 [Full-stack | MTA Roleplay Server (Lua)](https://github.com/gui-ber/roleplay_mta)
