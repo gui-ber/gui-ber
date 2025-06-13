@@ -1,23 +1,21 @@
 ## 🌟 Sobre mim
-SRE com mais de 1 ano de experiência, focado no provisionamento, observabilidade, sustentação e melhoria contínua de ambientes. Atuando no provisionamento com Terraform, garantindo a entrega contínua com Github Actions, realizando monitoramento com Prometheus, New Relic e CloudWatch, e automatizando tarefas e rotinas diárias com Python e Shell.
+Apaixonado pela área de tecnologia desde muito jovem, comecei nessa jornada desenvolvendo com Lua, criando resources em servidores de jogos multiplayer open-source ([Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue)), no qual fiquei bem conhecido depois de publicar tutoriais e features gratuitos na comunidade, comecei a fazer freelances para os maiores servidores do Brasil e posteriormente ter o meu próprio [projeto](https://github.com/gui-ber/roleplay_mta), que chegou a atingir mais de 350 jogadores simultâneos. Iniciei minha graduação em 2018 e logo comecei a estagiar, desde então estou há quase 6 anos na área. Já tive experiência em diversos departamentos, como Suporte, Desenvolvimento, Dados e atualmente Cloud com foco em sustentação, automação, e desenvolvimento de ferramentas para times internos.
 
-Iniciei minha carreira já na adolescência, quando junto com um grupo de amigos, criamos um servidor online de game na plataforma open-source [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue), onde conheci e me apaixonei pela área de tecnologia. Levei o [projeto](https://github.com/gui-ber/roleplay_mta) muito a sério, tanto que em menos de 1 ano ele atingiu a marca de top 4 com mais acessos no Brasil, chegando a uma média de 350 jogadores simultâneos diariamente.
-
-Bacharel em Sistemas de Informação, já tive experiência em diversas áreas da tecnologia, tais como Help Desk, Desenvolvimento (back end), Dados e atualmente Cloud/SRE. No momento atuo como Analista de SRE na Autodoc Tecnologia.
+Bacharel em Sistemas de Informação, atuando há 1 ano e meio como Analista de Cloud na @Autodoc Tecnologia.
 
 ## 📚 Conhecimento
 - Linguagens: Python, Shell, Lua, JavaScript
-- Libs Python: PySpark, Pandas, Selenium
-- SQL: MySQL, PostgreSQL, SQL Server, SQLite
-- NoSQL: MongoDB, DynamoDB
+- Libs Python: Flask, Pandas, Selenium, PySpark, Matplotlib
+- Cloud: AWS
 - Container: Docker, Kubernetes
 - IaC: Terraform
-- Observabilidade: CloudWatch, Prometheus, New Relic
-- CI/CD: Github Actions, Jenkins
-- Servidores: NGINX, Apache
-- Cloud: AWS
+- CI/CD: Github Actions, Gitlab CI, CodePipeline
+- SQL: MySQL, PostgreSQL, SQL Server, SQLite
+- NoSQL: MongoDB, DynamoDB
+- Sistemas Operacionais: Linux, Windows
+- Servidores Web: NGINX, Apache, IIS
+- Observabilidade: CloudWatch, New Relic
 - Data Lake/Warehouse: Databricks
-- Datavis: Tableau | Power BI
 
 ## 🗃 Portfólio
 [Full-stack | MTA Roleplay Server (Lua)](https://github.com/gui-ber/roleplay_mta)
