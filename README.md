@@ -1,17 +1,17 @@
 ## 🌟 Sobre mim
-Apaixonado pela área de tecnologia desde muito jovem, comecei nessa jornada desenvolvendo com Lua, criando resources em servidores de jogos multiplayer open-source ([Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue)), no qual fiquei bem conhecido depois de publicar tutoriais e features gratuitos na comunidade, comecei a fazer freelances para os maiores servidores do Brasil e posteriormente ter o meu próprio [projeto](https://github.com/gui-ber/roleplay_mta), que chegou a atingir mais de 350 jogadores simultâneos. Iniciei minha graduação em 2018 e logo comecei a estagiar, desde então estou há quase 6 anos na área. Já tive experiência em diversos departamentos, como Suporte, Desenvolvimento, Dados e atualmente Cloud com foco em sustentação, automação, e desenvolvimento de ferramentas para times internos.
+Apaixonado pela área de tecnologia desde muito jovem, comecei nessa jornada desenvolvendo na linguagem Lua, criando resources em servidores de jogos multiplayer open-source ([Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue)), no qual fiquei conhecido na comunidade depois de publicar tutoriais e features gratuitos, comecei a fazer freelances para os maiores servidores do Brasil e posteriormente ter o meu próprio [projeto](https://github.com/gui-ber/roleplay_mta), que chegou a atingir mais de 350 jogadores simultâneos, e isso criou a paixão pela área que segue firme até hoje.
 
-Bacharel em Sistemas de Informação, atuando há 1 ano e meio como Analista de Cloud na @Autodoc Tecnologia.
+Bacharel em Sistemas de Informação, atuando há mais de 2 anos como SRE na [Autodoc Tecnologia](https://www.linkedin.com/company/10942603/), com foco em provisionamento de infraestrutura na AWS com Terraform, desenvolvimento de esteiras CI/CD com Github Actions e CodeDeploy, sustentação de aplicações, desenvolvimento de automações e ferramentas internas com Python e Shell, observabilidade de ambientes
 
 ## 📚 Conhecimento
 - Linguagens: Python, Shell, Lua, JavaScript
-- Libs Python: Flask, Pandas, Selenium, PySpark, Matplotlib
+- Libs Python: Flask, PySpark, Selenium, Pandas
 - Cloud: AWS
 - Container: Docker, Kubernetes
 - IaC: Terraform
-- CI/CD: Github Actions, Gitlab CI, CodePipeline
+- CI/CD: Github Actions, Gitlab CI, CircleCI, CodeDeploy
 - SQL: MySQL, PostgreSQL, SQL Server, SQLite
-- NoSQL: MongoDB, DynamoDB
+- NoSQL: MongoDB, DynamoDB, Redis
 - Sistemas Operacionais: Linux, Windows
 - Servidores Web: NGINX, Apache, IIS
 - Observabilidade: CloudWatch, New Relic
